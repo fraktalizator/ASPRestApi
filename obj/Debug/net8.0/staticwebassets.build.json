@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ajlKgitdeBIDH1TPE6x4HNWTWXtOrIRwfdeu9YeKU0Q=",
+  "Source": "ASPRestApi",
+  "BasePath": "_content/ASPRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
